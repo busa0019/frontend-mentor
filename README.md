@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 - **GitHub Repo:** https://github.com/busa0019/news-homepage-main
-- **Live Site:** https://busa0019.github.io/news-homepage-main/
+- **Live Site:** https://busa0019.github.io/frontend-mentor/
 - **Challenge:** https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl
 
 ## Features
