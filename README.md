@@ -1,5 +1,4 @@
-- Name: Faoziyyah Busari
-- Student No: 041141018
+
 - Challenge: News Homepage
 
 # Frontend Mentor – News Homepage (Solution)
